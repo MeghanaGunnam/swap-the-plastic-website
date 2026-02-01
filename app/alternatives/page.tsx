@@ -359,7 +359,7 @@ export default function AlternativesPage() {
       materials: "Bamboo fiber, Stainless steel interior",
       lifespan: "5+ years",
       co2_saved: "12.5 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=300&fit=crop",
+      image: "https://www.ippinka.com/wp-content/uploads/2018/10/bamboo-bottle-03.jpg",
       offer: {
         type: "discount",
         value: "18% OFF",
@@ -404,7 +404,7 @@ export default function AlternativesPage() {
       materials: "100% food-grade silicone",
       lifespan: "10+ years",
       co2_saved: "8.3 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      image: "https://i5.walmartimages.com/asr/2dbad08d-66c5-4390-8596-42c64087ed98.b9cfaf3d6d90dfab12d46bdf9ce37540.jpeg",
       offer: {
         type: "bestseller",
         value: "BESTSELLER",
@@ -446,7 +446,7 @@ export default function AlternativesPage() {
       materials: "304 stainless steel",
       lifespan: "Lifetime",
       co2_saved: "2.1 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+      image: "https://www.theenablenature.com/wp-content/uploads/2022/11/31etqtLCdbL.jpg",
       offer: {
         type: "new",
         value: "NEW ARRIVAL",
@@ -488,7 +488,7 @@ export default function AlternativesPage() {
       materials: "Organic cotton, natural beeswax, jojoba oil",
       lifespan: "1-2 years",
       co2_saved: "5.7 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/71ZC2+Qah1L._AC_SL1200_.jpg",
       offer: {
         type: "bundle",
         value: "BUY 2 GET 1",
@@ -531,7 +531,7 @@ export default function AlternativesPage() {
       materials: "Bamboo handle, nylon bristles",
       lifespan: "3 months each",
       co2_saved: "1.2 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=400&h=300&fit=crop",
+      image: "https://www.bambootoothbrushes.us/wp-content/uploads/2024/07/2-1.png",
       offer: {
         type: "discount",
         value: "22% OFF",
@@ -573,7 +573,7 @@ export default function AlternativesPage() {
       materials: "Borosilicate glass, bamboo lids",
       lifespan: "10+ years",
       co2_saved: "15.2 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/71Z0hzyV-fS._AC_SL1500_.jpg",
       offer: {
         type: "premium",
         value: "PREMIUM",
@@ -617,7 +617,7 @@ export default function AlternativesPage() {
       materials: "99.9% pure copper",
       lifespan: "Lifetime",
       co2_saved: "14.8 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/51VmTGWRZML._SL1200_.jpg",
       offer: {
         type: "discount",
         value: "22% OFF",
@@ -660,7 +660,7 @@ export default function AlternativesPage() {
       materials: "Natural jute fiber, cotton handles",
       lifespan: "3-5 years",
       co2_saved: "6.2 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+      image: "https://5.imimg.com/data5/YY/HR/MY-1329072/jute-shopping-bags-500x500.jpg",
       offer: {
         type: "discount",
         value: "31% OFF",
@@ -702,7 +702,7 @@ export default function AlternativesPage() {
       materials: "Bamboo, organic cotton pouch",
       lifespan: "2-3 years",
       co2_saved: "3.4 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      image: "https://ph-test-11.slatic.net/p/28fdb958acd11263daba79eeb486339b.jpg",
       offer: {
         type: "new",
         value: "NEW",
@@ -745,7 +745,7 @@ export default function AlternativesPage() {
       materials: "Organic cotton mesh",
       lifespan: "5+ years",
       co2_saved: "2.8 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/71zCTa7H15L._AC_SL1000_.jpg",
       offer: {
         type: "discount",
         value: "30% OFF",
@@ -788,7 +788,7 @@ export default function AlternativesPage() {
       materials: "304 stainless steel",
       lifespan: "10+ years",
       co2_saved: "8.9 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop",
+      image: "https://sowbaghya.com/cdn/shop/products/stainless-steel-lunch-box-triple-sowbaghya-1.jpg?v=1705674061",
       offer: {
         type: "bestseller",
         value: "BESTSELLER",
@@ -831,7 +831,7 @@ export default function AlternativesPage() {
       materials: "Natural coconut coir fiber",
       lifespan: "3-4 months each",
       co2_saved: "1.1 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+      image: "https://satopradhan.com/cdn/shop/files/Preview-1CoconutCoirScrubber_1000x.jpg?v=1711174624",
       offer: {
         type: "discount",
         value: "33% OFF",
@@ -873,7 +873,7 @@ export default function AlternativesPage() {
       materials: "Natural hemp fiber",
       lifespan: "5+ years",
       co2_saved: "4.2 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+      image: "https://i.etsystatic.com/9256355/r/il/b58851/831812635/il_1080xN.831812635_3mxf.jpg",
       offer: {
         type: "premium",
         value: "PREMIUM",
@@ -916,7 +916,7 @@ export default function AlternativesPage() {
       materials: "Neem wood, natural finish",
       lifespan: "3-5 years",
       co2_saved: "0.8 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/714brCSHzAL._SL1488_.jpg",
       offer: {
         type: "bundle",
         value: "FAMILY SET",
@@ -959,7 +959,7 @@ export default function AlternativesPage() {
       materials: "100% recycled paper, cardboard cover",
       lifespan: "6 months each",
       co2_saved: "3.2 kg CO2/year",
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+      image: "https://www.sustainablejungle.com/wp-content/uploads/2024/09/Image-by-White-Dragon-Paper-sustainable-notebooks-2.jpg",
       offer: {
         type: "discount",
         value: "27% OFF",
