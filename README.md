@@ -1,7 +1,7 @@
 # Swap the Plastic Website
 
 An eco-friendly full-stack web application to connect users with recyclers,
-suggest plastic alternatives, and provide ML-based recommendations.Here we didnot directly used the images of the products
+suggest plastic alternatives, and provide ML-based recommendations.
 
 ## Tech Stack
 - Flask
