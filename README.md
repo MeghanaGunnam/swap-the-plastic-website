@@ -99,8 +99,8 @@ python app.py
 ##  Author
 
 [Meghana Gunnam](https://github.com/MeghanaGunnam)
-[Sahithya Kunapareddy]
 [Mudunuri Bhavya Sai](https://github.com/bhavyasai-code)
+[Sahithya Kunapareddy]
 **Vechalapu GreeshmaSree**
 **Malli Charitha**
 * B.Tech Student | AI/ML Enthusiast
