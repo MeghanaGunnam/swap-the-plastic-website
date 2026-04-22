@@ -76,6 +76,14 @@ There is no simple platform connecting users with recyclers and sustainable choi
 ![Community](images/Community.png)
 
 
+## 👩‍💻 Authors
+
+- 👩 [Meghana Gunnam](https://github.com/MeghanaGunnam)
+- 👩 [Mudunuri Bhavya Sai](https://github.com/bhavyasai-code)
+* B.Tech Student | AI/ML Enthusiast
+* Passionate about sustainability & technology
+
+
 
 ## ⚙️ Installation & Setup
 
