@@ -64,8 +64,6 @@ There is no simple platform connecting users with recyclers and sustainable choi
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Homepage
 ![Homepage](images/Home.png)
 
@@ -96,12 +94,15 @@ python app.py
 * 📍 Live location tracking
 * 📱 Mobile app version
 
----
+
 
 ##  Author
 
 **Meghana Gunnam**
-
+**Sahithya Kunapareddy**
+**Mudunuri Bhavya Sai**
+**Vechalapu GreeshmaSree**
+**Malli Charitha**
 * B.Tech Student | AI/ML Enthusiast
 * Passionate about sustainability & technology
 
