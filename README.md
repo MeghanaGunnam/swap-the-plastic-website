@@ -64,7 +64,18 @@ There is no simple platform connecting users with recyclers and sustainable choi
 
 ## 📸 Screenshots
 
-(Add screenshots here – homepage, recycler map, product page, etc.)
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](images/Home.png)
+
+### 🔍 Recycler Finder
+![Recycler](images/Recyclers.png)
+
+### 🌿 Products
+![Products](images/Alternatives.png)
+###  Community
+![Community](images/Community.png)
 
 
 
