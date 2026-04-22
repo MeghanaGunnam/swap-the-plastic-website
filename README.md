@@ -98,9 +98,9 @@ python app.py
 
 ##  Author
 
-**Meghana Gunnam**
+**Meghana Gunnam**[https://github.com/MeghanaGunnam ]
 **Sahithya Kunapareddy**
-**Mudunuri Bhavya Sai**
+**Mudunuri Bhavya Sai**[https://github.com/bhavyasai-code]
 **Vechalapu GreeshmaSree**
 **Malli Charitha**
 * B.Tech Student | AI/ML Enthusiast
