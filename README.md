@@ -96,13 +96,12 @@ python app.py
 
 
 
-##  Author
 
-[Meghana Gunnam](https://github.com/MeghanaGunnam)
-[Mudunuri Bhavya Sai](https://github.com/bhavyasai-code)
-[Sahithya Kunapareddy]
-**Vechalapu GreeshmaSree**
-**Malli Charitha**
+
+## 👩‍💻 Authors
+
+- 👩 [Meghana Gunnam](https://github.com/MeghanaGunnam)
+- 👩 [Mudunuri Bhavya Sai](https://github.com/bhavyasai-code)
 * B.Tech Student | AI/ML Enthusiast
 * Passionate about sustainability & technology
 
