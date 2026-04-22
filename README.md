@@ -98,12 +98,6 @@ python app.py
 
 
 
-## 👩‍💻 Authors
-
-- 👩 [Meghana Gunnam](https://github.com/MeghanaGunnam)
-- 👩 [Mudunuri Bhavya Sai](https://github.com/bhavyasai-code)
-* B.Tech Student | AI/ML Enthusiast
-* Passionate about sustainability & technology
 
 
 ##  Impact
